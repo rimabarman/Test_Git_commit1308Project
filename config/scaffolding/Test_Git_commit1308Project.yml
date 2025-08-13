@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Test_Git_commit1308Project
+  gitServerName: rimaSCName
+  gitUrl: https://github.com/rimabarman
+  gitUsername: rimabarman
+  gitBranch: main
